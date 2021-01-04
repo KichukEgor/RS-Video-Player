@@ -1,1 +1,1 @@
-# RS-Video-Player
+https://kichukegor.github.io/RS-Video-Player/
